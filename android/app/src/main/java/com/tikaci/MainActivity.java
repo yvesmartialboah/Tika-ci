@@ -1,4 +1,4 @@
-package com.livme;
+package com.tikaci;
 
 import android.os.Bundle; // here
 import org.devio.rn.splashscreen.SplashScreen; // here
